@@ -1,13 +1,15 @@
-.btn1,
-.btn2 {
+.button-inverted,
+.button-yellow {
   font-family: Helvetica, "Times New Roman", sans-serif;
   font-size: 28px;
 }
-.btn1{
-    background-color: black;
-    color: white;
+
+.button-inverted {
+  background-color: black;
+  color: white;
 }
-.btn2{
-    background-color: yellow;
-    color: black;
+
+.button-yellow {
+  background-color: yellow;
+  color: black;
 }
